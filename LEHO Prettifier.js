@@ -77,12 +77,43 @@ $("#leftmenu ul li").css({"float":"left", "width":"19em", "text-align":"center"}
 
 $("#content").css({"clear":"left", "padding-top":"0.3em"});
 
-//$("#usermenu ul li a").css({"padding":"0.75em"});
-
 $("#usermenu ul li a:nth(1)").css({"padding":"9px", "vertical-align":"middle"});
+
+$("#tools .threecolumn").css({"margin-left":"0", "margin-right":"1em"});
+
 
 //
 //	User Portal
 //
 
 $(".columns").css({"margin-left":"0", "margin-right":"1em"})
+
+
+//
+//	Dropbox (general)
+//
+
+$("#dropbox_actions").css({"margin-top":"-0.7em", "margin-bottom":"0.7em"});
+
+$(".bodyform div.formw").css({"float":"none"});
+
+$(".bodyform div.label").css({"width":"7em", "margin-right":"0", "text-align":"left"});
+
+$("input[type=file]").css({"width":"26em"});
+
+$("fieldset").css({"margin-bottom":"0"});
+
+$("#dropbox_out").css({"margin-left":"1em", "padding-bottom":"0"});
+
+$(".row:nth(1) .label").css({"margin-bottom":"1em"});
+
+$(".row:nth(1) br").show();
+
+$(".row textarea").css({"width":"auto", "min-width":"26em"});
+
+
+//
+// Calendar
+//
+
+$("#calendar").css({"margin-top":"1em"});

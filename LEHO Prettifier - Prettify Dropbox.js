@@ -2,7 +2,7 @@
 // @name       LEHO Prettifier - Prettify Dropbox
 // @namespace  LEHO.sucks.whats.new
 // @description  Makes LEHO pretty. Prettifies the Dropbox area.
-// @match      http://leho.howest.be/main/dropbox/dropbox.php?view=sendnew*
+// @match      *://*.leho.howest.be/main/dropbox/dropbox.php?view=sendnew*
 // ==/UserScript==
 
 $(".bodyform div.formw").css({"float":"none"});

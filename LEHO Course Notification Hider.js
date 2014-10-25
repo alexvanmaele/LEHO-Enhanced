@@ -2,7 +2,7 @@
 // @name       LEHO Course Notification Hider
 // @namespace  LEHO.sucks.whats.new
 // @description  Adds button to clear all course notifications in LEHO.
-// @match      http://leho.howest.be/index.php
+// @match      *://*.leho.howest.be/index.php
 // ==/UserScript==
 
 function clearNotifications()

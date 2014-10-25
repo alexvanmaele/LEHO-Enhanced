@@ -2,7 +2,7 @@
 // @name       LEHO Prettifier
 // @namespace  LEHO.sucks.whats.new
 // @description  Makes LEHO pretty.
-// @match      http://leho.howest.be/*
+// @match      *://*.leho.howest.be/*
 // ==/UserScript==
 
 
